@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 <!-- Unity -->
 <a href="https://unity.com/" target="_blank"> 
-<img src="https://assets.stickpng.com/images/58482b92cef1014c0b5e4a2d.png" alt="firebase" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="firebase" width="40" height="40"/> 
 </a> 
 
 <!-- Blender -->
@@ -129,5 +129,4 @@ Here are some ideas to get you started:
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="firebase" width="40" height="40"/> 
 </a> 
-
 
