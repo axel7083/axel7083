@@ -22,15 +22,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me **axel7083@protonmail.com**
 
 
-
 <h4 align="left">Connect with me</h4>
 
-<!--  -->
-<a href="https://stackoverflow.com/users/10160890/axel7083" target="_blank"> 
+<!-- Stakcoverflow  -->
+<a href="https://stackoverflow.com/users/10160890/axel7083" target="_blank">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="css3" width="40" height="40"/> 
 </a> 
 
-<!--  -->
+<!-- Xda -->
 <a href="https://forum.xda-developers.com/member.php?u=7457720" target="_blank"> 
 <img src="https://labs.xda-developers.com/static/images/ic_web.png" alt="css3" width="40" height="40"/> 
 </a> 
@@ -130,3 +129,8 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="firebase" width="40" height="40"/> 
 </a> 
 
+<h4 align="left">About me</h4>
+
+<a href="https://stackoverflow.com/users/10160890/axel7083"> 
+<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10160890?logo=stackoverflow">
+</a>
