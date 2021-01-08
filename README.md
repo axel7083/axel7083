@@ -39,95 +39,92 @@ Here are some ideas to get you started:
 
 <!-- Java -->
 <a href="https://www.java.com/en/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 </a> 
 
 <!-- Android -->
 <a href="https://developer.android.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/> 
 </a> 
 
 <!-- Kotlin -->
 <a href="https://kotlinlang.org/" target="_blank"> 
-<img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/18852341021548218200-512.png" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
 </a> 
 
 <!-- Nodejs -->
 <a href="https://nodejs.org/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/> 
 </a> 
 
 <!-- ReactJs -->
 <a href="https://reactjs.org/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="40" height="40"/> 
 </a> 
 
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
 </a>  
 
 <!-- npm -->
 <a href="https://www.npmjs.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
 </a> 
 
 <!-- bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
 
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/> 
 </a> 
 
 <!-- Chrome extension -->
 <a href="https://developer.chrome.com/home" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome extension" width="40" height="40"/> 
 </a> 
 
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 </a> 
 
 <!-- mySQL -->
 <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="40" height="40"/> 
 </a> 
 
 
 
 <!-- JS -->
 <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/> 
 </a> 
 
-
-<!-- IntelliJ -->
 <a href="https://www.jetbrains.com/idea/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="firebase" width="40" height="40"/> 
 </a> 
 
-<!-- WebStorm -->
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
 <img src="https://blog.buddyweb.fr/content/images/2020/01/1-e2bFJqGpZ8s3kRA5IFG7Ag.png" alt="firebase" width="40" height="40"/> 
 </a> 
 
-<!-- Unity -->
+
 <a href="https://unity.com/" target="_blank"> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="firebase" width="40" height="40"/> 
 </a> 
 
-<!-- Blender -->
+
 <a href="https://www.blender.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="firebase" width="40" height="40"/> 
 </a> 
 
-<!-- C# -->
+
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> 
 </a> 
 
 <h4 align="left">About me</h4>
