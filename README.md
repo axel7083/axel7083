@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- Xda -->
 <a href="https://forum.xda-developers.com/member.php?u=7457720" target="_blank"> 
-<img src="https://labs.xda-developers.com/static/images/ic_web.png" alt="css3" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/b3/8e/d7/b38ed7b5fcb8f95720c016281a25fafd.png" alt="xda" width="40" height="40"/> 
 </a> 
 
 <h4 align="left">Languages and Tools</h4>
