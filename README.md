@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="firebase" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" width="40" height="40"/> 
 </a> 
 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
@@ -114,12 +114,12 @@ Here are some ideas to get you started:
 
 
 <a href="https://unity.com/" target="_blank"> 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="firebase" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="unity" width="40" height="40"/> 
 </a> 
 
 
 <a href="https://www.blender.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="firebase" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/> 
 </a> 
 
 
