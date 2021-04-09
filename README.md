@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" width="40" height="40"/> 
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ" width="40" height="40"/> 
 </a> 
 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
