@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
-<img src="https://blog.buddyweb.fr/content/images/2020/01/1-e2bFJqGpZ8s3kRA5IFG7Ag.png" alt="firebase" width="40" height="40"/> 
+<img src="https://blog.buddyweb.fr/content/images/2020/01/1-e2bFJqGpZ8s3kRA5IFG7Ag.png" alt="webstorm" width="40" height="40"/> 
 </a> 
 
 
