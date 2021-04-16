@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a> 
 
 <!-- Xda -->
-<a href="https://forum.xda-developers.com/member.php?u=7457720" target="_blank"> 
+<a href="https://forum.xda-developers.com/m/axel7083.7457720/#recent-content" target="_blank"> 
 <img src="https://i.pinimg.com/originals/b3/8e/d7/b38ed7b5fcb8f95720c016281a25fafd.png" alt="xda" width="40" height="40"/> 
 </a> 
 
