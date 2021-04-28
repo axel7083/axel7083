@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - :book: Take a look at my <a href="https://axel7083.github.io/Portfolio/">Portfolio</a> (Beta)
-
+- :writing_hand: Look at some articles I made on my <a href="https://axel7083.medium.com/">Medium page</a>
 
 <h4 align="left">Connect with me</h4>
 
