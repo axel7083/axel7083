@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">French student in <a href="https://www.utbm.fr/">UTBM</a>, big fan of technology, always looking for something funny to code 💻. </p>
 
-
-- :book: Take a look at my <a href="https://axel7083.github.io/Portfolio/">Portfolio</a> (Beta)
-- :writing_hand: Look at some articles I made on my <a href="https://axel7083.medium.com/">Medium page</a>
-
 <h4 align="left">Connect with me</h4>
 
 <!-- Stakcoverflow  -->
