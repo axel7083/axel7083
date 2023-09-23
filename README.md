@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋, I am Axel</h2>
 
-<p align="center">French student in <a href="https://www.utbm.fr/">UTBM</a>, big fan of technology, always looking for something funny to code 💻. </p>
+<p align="center">Software engineer, open-source enthusiasm, always looking for something funny to code 💻. </p>
 
 <h4 align="left">Connect with me</h4>
 
