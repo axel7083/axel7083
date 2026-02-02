@@ -1,19 +1,28 @@
-
-<!--
-**axel7083/axel7083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">Hi there 👋, I am Axel</h2>
 
-<p align="center">Software engineer at <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" alt="css3" width="16" height="16"/> RedHat, open-source enthusiasm, always looking for something funny to code 💻. </p>
+<p align="center">
+  Software engineer at
+  <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" alt="Red Hat" width="16" height="16"/>
+  Red Hat, open-source enthusiast, always looking for something fun to code 💻
+</p>
+
+<hr/>
+
+<h3>🎤 Speaking</h3>
+
+<ul>
+  <li>
+    <img src="https://fosdem.org/favicon.ico" width="16" height="16"/>
+    <strong>FOSDEM 2026</strong> -
+    <a href="https://fosdem.org/2026/schedule/event/VFDMGL-podman-ebpf-profiling/">
+      Reducing container images size with eBPF &amp; Podman
+    </a>
+  </li>
+  <li>
+    <img src="https://fosdem.org/favicon.ico" width="16" height="16"/>
+    <strong>FOSDEM 2025</strong> -
+    <a href="https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5383-running-containers-under-systemd-exploring-podman-quadlet/">
+      Running Containers Under Systemd: Exploring Podman Quadlet
+    </a>
+  </li>
+</ul>
