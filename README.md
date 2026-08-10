@@ -26,3 +26,15 @@
     </a>
   </li>
 </ul>
+
+<h3>🖋️ Writting</h3>
+
+<ul>
+  <li>
+    <img src="https://developers.redhat.com/themes/custom/rhdp_fe/favicons/favicon.ico" width="16" height="16"/>
+    <a href="https://developers.redhat.com/articles/2026/08/10/harden-local-container-base-images-podman-desktop">
+      Harden local container base images in Podman Desktop
+    </a>
+  </li>
+</ul>
+
