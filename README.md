@@ -27,7 +27,7 @@
   </li>
 </ul>
 
-<h3>🖋️ Writting</h3>
+<h3>🖋️ Writing</h3>
 
 <ul>
   <li>
