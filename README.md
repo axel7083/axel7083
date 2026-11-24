@@ -12,14 +12,14 @@
 
 <ul>
   <li>
-    <img src="https://fosdem.org/favicon.ico" width="16" height="16"/>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/FOSDEM_logo.png/960px-FOSDEM_logo.png" width="16" height="16"/>
     <strong>FOSDEM 2026</strong> -
     <a href="https://fosdem.org/2026/schedule/event/VFDMGL-podman-ebpf-profiling/">
       Reducing container images size with eBPF &amp; Podman
     </a>
   </li>
   <li>
-    <img src="https://fosdem.org/favicon.ico" width="16" height="16"/>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/FOSDEM_logo.png/960px-FOSDEM_logo.png" width="16" height="16"/>
     <strong>FOSDEM 2025</strong> -
     <a href="https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5383-running-containers-under-systemd-exploring-podman-quadlet/">
       Running Containers Under Systemd: Exploring Podman Quadlet
